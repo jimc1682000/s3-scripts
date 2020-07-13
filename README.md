@@ -8,3 +8,5 @@ Create a filelist.csv, each line is a file-id, and the script will loop through 
 
 Execute the script on the root folder, and it will compress all subfolders for you,
 the compressed files will be under tar/ folder.
+If system already installed pigz, comment the gzip line and uncomment pigz line.
+
