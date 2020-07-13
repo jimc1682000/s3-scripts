@@ -1,2 +1,5 @@
 # Ignore all csv format 
 *.csv
+
+# Ignore tared log files.
+tar/
